@@ -7,7 +7,7 @@
 
 <!-- - I'm currently working. -->
 - I'm curretnly studing for a B.Eng degree in Beijing Institute of Technology.  
-- I'm once worked in BIGAI as a algorithm intern.
+- I'm once worked in `BIGAI` as a algorithm intern.
 - I'm currently working on NLP & ML & Big Data. 
 - Language mainly used : C++, Python.
 - Reach me at my Wechat : ldtenacity666.
