@@ -7,11 +7,11 @@
 
 <!-- - I'm currently working. -->
 - I'm curretnly studing for a B.Eng degree in Beijing Institute of Technology.  
-- I'm once worked in Zhito as a SLAM algorithm intern.
-- I'm currently working on NLP & ML. 
+- I'm once worked in BIGAI as a algorithm intern.
+- I'm currently working on NLP & ML & Big Data. 
 - Language mainly used : C++, Python.
-- Reach me at my Wechat : mfp-0610.
-<!-- - I'm currently learning HPC & distributed system. -->
+- Reach me at my Wechat : ldtenacity666.
+<!-- - I'm currently learning MetaUniverise. -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
