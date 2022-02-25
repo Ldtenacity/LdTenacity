@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋 I am AnonM
+### Hi there 👋 I am Donald Liu
 
 **Intrduction**
 
 <!-- - I'm currently working. -->
-- I'm curretnly studing for a B.Eng degree in [AIA](http://english.aia.hust.edu.cn/), [HUST](http://english.hust.edu.cn/), Wuhan, China.  
+- I'm curretnly studing for a B.Eng degree in Beijing Institute of Technology.  
 - I'm once worked in Zhito as a SLAM algorithm intern.
-- I'm currently working on SLAM & deep learning. 
+- I'm currently working on NLP & ML. 
 - Language mainly used : C++, Python.
 - Reach me at my Wechat : mfp-0610.
 <!-- - I'm currently learning HPC & distributed system. -->
