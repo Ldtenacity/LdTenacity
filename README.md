@@ -10,7 +10,7 @@
 - I'm once worked in `BIGAI` as an algorithm intern.
 - I'm currently working on NLP & ML & Big Data Analysis. 
 - I'm quite intereted in system architecture , software engineering and hardware development nowadays.
-- Language mainly used : C++, Python.
+- Language mainly used : C++, Python, Java, Latex, Markdown
 - Reach me at my Wechat : ldtenacity666.
 <!-- - I'm currently learning MetaUniverise. -->
 <!-- - 👯 I’m looking to collaborate on ...
