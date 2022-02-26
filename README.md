@@ -7,8 +7,9 @@
 
 <!-- - I'm currently working. -->
 - I'm curretnly studing for a B.Eng degree in Computer Science
-- I'm once worked in `BIGAI` as a algorithm intern.
-- I'm currently working on NLP & ML & Big Data. 
+- I'm once worked in `BIGAI` as an algorithm intern.
+- I'm currently working on NLP & ML & Big Data Analysis. 
+- I'm quite intereted in system architecture , software engineering and hardware development nowadays.
 - Language mainly used : C++, Python.
 - Reach me at my Wechat : ldtenacity666.
 <!-- - I'm currently learning MetaUniverise. -->
