@@ -58,4 +58,19 @@
 <strong>Useful Links 📫</strong>
 * [My Blog](https://ldtenacity.github.io) 
 
+<p align="center">
+<a href="https://github.com/preminstrel">
+<img src="https://komarev.com/ghpvc/?username=preminstrel&style=flat-square" alt="preminstrel" />
+</a>
+<a href="https://github.com/preminstrel">
+ <img src="https://badges.pufler.dev/years/preminstrel?style=flat-square&color=blue&logo=github">
+</a>
+<a href="https://github.com/preminstrel">
+ <img src="https://badges.pufler.dev/repos/preminstrel?style=flat-square&color=blue&logo=github">
+</a>
+ <a href="mailto:preminstrel@gmail.com">
+ <img src="https://img.shields.io/badge/-preminstrel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:preminstrel@gmail.com">
+</a>
+</p>
+
 
