@@ -45,31 +45,29 @@
 </p>
 
 <details><summary>More GitHub Info</summary>
-<img src="https://metrics.lecoq.io/preminstrel?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FShanghai"/>
+<img src="https://metrics.lecoq.io/ldtenacity?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FShanghai"/>
 </br>
-<img src="https://activity-graph.herokuapp.com/graph?username=preminstrel&theme=green&hide_title=false"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=ldtenacity&theme=green&hide_title=false"/>
 </details>
 
 <strong>My Weekly Coding Activity</strong>
-
-<img src="https://github.com/preminstrel/preminstrel/blob/main/images/stat.svg" alt="Preminstrel WakaTime Activity"/>
 
 
 <strong>Useful Links 📫</strong>
 * [My Blog](https://ldtenacity.github.io) 
 
 <p align="center">
-<a href="https://github.com/preminstrel">
-<img src="https://komarev.com/ghpvc/?username=preminstrel&style=flat-square" alt="preminstrel" />
+<a href="https://github.com/ldtenacity">
+<img src="https://komarev.com/ghpvc/?username=ldtenacityl&style=flat-square" alt="ldtenacity" />
 </a>
-<a href="https://github.com/preminstrel">
- <img src="https://badges.pufler.dev/years/preminstrel?style=flat-square&color=blue&logo=github">
+<a href="https://github.com/ldtenacity">
+ <img src="https://badges.pufler.dev/years/ldtnacity?style=flat-square&color=blue&logo=github">
 </a>
-<a href="https://github.com/preminstrel">
- <img src="https://badges.pufler.dev/repos/preminstrel?style=flat-square&color=blue&logo=github">
+<a href="https://github.com/ldtenacity">
+ <img src="https://badges.pufler.dev/repos/ldtenacity?style=flat-square&color=blue&logo=github">
 </a>
- <a href="mailto:preminstrel@gmail.com">
- <img src="https://img.shields.io/badge/-preminstrel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:preminstrel@gmail.com">
+ <a href="mailto:ldtenacityl@gmail.com">
+ <img src="https://img.shields.io/badge/-ldtenacity@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldtenacity@gmail.com">
 </a>
 </p>
 
