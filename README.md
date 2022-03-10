@@ -61,7 +61,7 @@
 <img src="https://komarev.com/ghpvc/?username=ldtenacityl&style=flat-square" alt="ldtenacity" />
 </a>
 <a href="https://github.com/ldtenacity">
- <img src="https://badges.pufler.dev/years/ldtnacity?style=flat-square&color=blue&logo=github">
+ <img src="https://badges.pufler.dev/years/ldtenacity?style=flat-square&color=blue&logo=github">
 </a>
 <a href="https://github.com/ldtenacity">
  <img src="https://badges.pufler.dev/repos/ldtenacity?style=flat-square&color=blue&logo=github">
