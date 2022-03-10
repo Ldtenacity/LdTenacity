@@ -23,7 +23,7 @@
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldtenacity)-->
 
-<--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldtenacity)-->
+<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldtenacity)-->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ldtenacity&bg_color=22272E&text_color=CDD9E5&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" /> 
 
