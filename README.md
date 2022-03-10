@@ -56,6 +56,6 @@
 
 
 <strong>Useful Links 📫</strong>
-* [My Blog](https://preminstrel.github.io/about/) 
+* [My Blog](https://ldtenacity.github.io/about/) 
 
 
