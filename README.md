@@ -8,6 +8,7 @@
 <!-- - I'm currently working. -->
 - 🌱 I'm curretnly studing for a B.Eng degree in Computer Science
 - 🌱 I'm once worked in `BIGAI` as an algorithm intern.
+- 🌱 I used to be an ACMer.
 - 🌱 I'm currently working on NLP & CV & ML & Big Data Analysis. 
 - 🌱 I'm quite intereted in System Architecture & Software Engineering & Hardware Development & Metaverse nowadays.
 - Language mainly used : C++, Python, Java, Latex, Markdown
