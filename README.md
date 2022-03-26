@@ -6,7 +6,7 @@
 **Intrduction**
 
 <!-- - I'm currently working. -->
-- 🌱 I'm curretnly studing for a B.Eng degree in Computer Science
+- 🌱 I'm currently studing for a B.Eng degree in Computer Science
 - 🌱 I'm once worked in `BIGAI` as an algorithm intern.
 - 🌱 I used to be an ACMer.
 - 🌱 I'm currently working on NLP & CV & ML & Big Data Analysis. 
