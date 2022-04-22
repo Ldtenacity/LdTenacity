@@ -59,7 +59,7 @@
 
 
 <strong>Useful Links 📫</strong>
-* [My Blog](https://ldtenacity.github.io) 
+<-* [My Blog](https://ldtenacity.github.io) ->
 
 <p align="center">
 <a href="https://github.com/ldtenacity">
