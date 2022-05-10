@@ -10,7 +10,7 @@
 - 🌱 I'm once worked in `BIGAI` as an algorithm intern.
 - 🌱 I used to be an ACMer.
 - 🌱 I'm currently working on GNN & RL.
-- 🌱 I had some research experience on NLP.
+- 🌱 I had some research experience on NLP & CV.
 - 🌱 I'm intereted in GNN-Sys & RL-application nowadays.
 - Language mainly used : C++, Python, Java, Latex, Markdown
 - Reach me at my Wechat : ldtenacity666, my email: ldtenacity@gmail.com.
