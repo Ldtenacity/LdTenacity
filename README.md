@@ -12,7 +12,7 @@
 - 🌱 I had some research experience on NLP & CV.
 - 🌱 I'm intereted in GNN-sys & RL-application nowadays.
 - Language mainly used : C++, Python, Java, Latex, Markdown
-My email: ldtenacity@gmail.com.
+- My email: ldtenacity@gmail.com.
 <!-- - I'm currently learning MetaUniverise. -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
