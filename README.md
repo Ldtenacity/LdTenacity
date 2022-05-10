@@ -29,7 +29,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ldtenacity&bg_color=22272E&text_color=CDD9E5&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" /> 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldtenacity&layout=compact&bg_color=22272E&text_color=CDD9E5&langs_count=10&hide_border=true" width="330px"/>
+<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldtenacity&layout=compact&bg_color=22272E&text_color=CDD9E5&langs_count=10&hide_border=true" width="330px"-->
 
 <!-- &hide=javascript,html -->
 
