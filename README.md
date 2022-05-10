@@ -9,7 +9,7 @@
 - 🌱 I'm currently studing for a B.Eng degree in Computer Science
 - 🌱 I'm once worked in one company as an algorithm intern.
 - 🌱 I used to be an ACMer.
-- 🌱 I'm currently working on GNN & RL.
+- 🌱 I'm currently doing research on GNN & RL.
 - 🌱 I had some research experience on NLP & CV.
 - 🌱 I'm intereted in GNN-sys & RL-application nowadays.
 - Language mainly used : C++, Python, Java, Latex, Markdown
