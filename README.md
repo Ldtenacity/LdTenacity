@@ -11,7 +11,7 @@
 - 🌱 I used to be an ACMer.
 - 🌱 I'm currently working on GNN & RL.
 - 🌱 I had some research experience on NLP.
-- 🌱 I'm also intereted in Sys nowadays.
+- 🌱 I'm intereted in GNN-Sys & RL-application nowadays.
 - Language mainly used : C++, Python, Java, Latex, Markdown
 - Reach me at my Wechat : ldtenacity666, my email: ldtenacity@gmail.com.
 <!-- - I'm currently learning MetaUniverise. -->
