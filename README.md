@@ -11,6 +11,7 @@
 - 🌱 I'm currently doing research on GNN & RL.
 - 🌱 I had some research experience on NLP & CV.
 - 🌱 I'm intereted in GNN-sys & RL-application nowadays.
+- 🌱 I have an algorithm intern experience in an AI company in Beijing.
 - Language mainly used : C++, Python, Java, Latex, Markdown
 - My email: ldtenacity@gmail.com.
 <!-- - I'm currently learning MetaUniverise. -->
