@@ -9,7 +9,8 @@
 - 🌱 I'm currently studing for a B.Eng degree in Computer Science
 - 🌱 I'm once worked in `BIGAI` as an algorithm intern.
 - 🌱 I used to be an ACMer.
-- 🌱 I'm currently working on GNN.
+- 🌱 I'm currently working on GNN & RL.
+- 🌱 I had some little research experience on NLP.
 - 🌱 I'm also intereted in Sys nowadays.
 - Language mainly used : C++, Python, Java, Latex, Markdown
 - Reach me at my Wechat : ldtenacity666, my email: ldtenacity@gmail.com.
