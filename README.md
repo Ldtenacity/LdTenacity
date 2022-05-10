@@ -7,7 +7,7 @@
 
 <!-- - I'm currently working. -->
 - 🌱 I'm currently studing for a B.Eng degree in Computer Science
-- 🌱 I used to be an ACMer.
+- 🌱 I used to be an ACMe.
 - 🌱 I'm currently doing research on GNN & RL.
 - 🌱 I had some research experience on NLP & CV.
 - 🌱 I'm intereted in GNN-sys & RL-application nowadays.
