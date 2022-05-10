@@ -5,6 +5,20 @@
 
 **Intrduction**
 
+Note: My github is on maintainaince, there are 30+ projects (includs team & personal projects, research projects).
+I will take maybe 1-2 months to make the code and documents look fine(since final is coming...), if you are interested in some of them please do not hesitate to contact me by email(ldtenacity666@outlook.com) and I will send you a copy.
+
+Projects Overview:
+1. GNN (data augmentation & MAG)
+2. RL (An application on medical, etc)
+3. NLP (QA, translation, KG, etc)
+4. CV (An enhanced CV algorithm implementation)
+5. Algorithm (An optimization algorithm for a specific situation)
+6. Computer Network (mail system, etc)
+7. System Architecture (CPU, compiler, etc)
+8. Data Analysis (recommendation system, sentiment analysis system, etc)
+9. Big Data System (Hadoop, Spark, Scala, etc Application)
+
 <!-- - I'm currently working. -->
 - 🌱 I'm currently studing for a B.Eng degree in Computer Science
 - 🌱 I used to be an ACMer.
