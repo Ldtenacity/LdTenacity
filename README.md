@@ -1,7 +1,7 @@
 
 
 
-### Hi there 👋 I am Donald Liu
+### Hi there 👋 I am Donald
 
 **Intrduction**
 
