@@ -14,7 +14,7 @@ Projects Overview:
 3. NLP (QA, translation, KG, etc)
 4. CV (An implementation of one enhanced CV algorithm)
 5. Algorithm (An implementation of one optimization algorithm for Flow Job Scheduling Problem)
-6. Computer Network (mail system, etc)
+6. Computer Network (mail system, website, etc)
 7. System Architecture (CPU, compiler, etc)
 8. Data Analysis (recommendation system, sentiment analysis system, etc)
 9. Big Data System (Hadoop, Spark, Scala, etc Application)
