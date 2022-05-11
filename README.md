@@ -86,7 +86,7 @@ Projects Overview:
 <a href="https://github.com/ldtenacity">
  <img src="https://badges.pufler.dev/repos/ldtenacity?style=flat-square&color=blue&logo=github">
 </a>
- <a href="mailto:ldtenacityl@gmail.com">
+ <a href="mailto:ldtenacity666l@outlook.com">
  <img src="https://img.shields.io/badge/-ldtenacity666@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldtenacity666@outlook.com">
 </a>
 </p>
