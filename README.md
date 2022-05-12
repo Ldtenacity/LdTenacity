@@ -5,7 +5,7 @@
 
 **Intrduction**
 
-Note: My github is on maintainaince, there are 30+ projects will be open-source recently (includes team & personal projects in courses, research projects).
+Note: My github is under maintainaince, there are 30+ projects will be open-source recently (includes team & personal projects in courses, research projects).
 I will take maybe 1-2 months to make the code and documents look fine(since final is coming, the schedule is a little tight), if you are interested in some of them, send a message to me(ldtenacity666@outlook.com) and I will give you a copy.
 
 Projects Overview:
@@ -90,5 +90,3 @@ Projects Overview:
  <img src="https://img.shields.io/badge/-ldtenacity666@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldtenacity666@outlook.com">
 </a>
 </p>
-
-
