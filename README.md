@@ -17,7 +17,7 @@ Projects Overview:
 6. Computer Network (mail system, website, etc)
 7. System Architecture (CPU, compiler, etc)
 8. Data Analysis (recommendation system, sentiment analysis system, etc)
-9. Distributed File System (Hadoop, Spark, Scala, etc Application)
+9. Distributed File System (Hadoop, Spark, Scala, etc Structure & Application)
 
 <!-- - I'm currently working. -->
 - 🌱 I'm currently studing for a B.Eng degree in Computer Science
