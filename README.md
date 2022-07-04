@@ -72,7 +72,6 @@ Projects Overview:
 </details>
 
 
-
 <strong>Useful Links 📫</strong>
 <!-- [My Blog](https://ldtenacity.github.io) -->
 
