@@ -10,14 +10,15 @@ I will take maybe 1-2 months to make the code and documents look fine and then p
 
 Projects Overview:
 1. GNN (diffusion & heterogeneous graph)
-2. RL (An application on medical, etc)
-3. NLP (QA, translation, KG, etc)
-4. CV (An self-defined CV algorithm)
-5. Algorithm (An self-defined optimization algorithm)
-6. Computer Network (mail system, website, etc)
-7. System Architecture (CPU, compiler, etc)
-8. Data Analysis (recommendation system, sentiment analysis system, etc)
-9. Distributed File System (Hadoop, Spark, Scala, etc Structure & Application)
+2. Distributed Graph Computing System
+3. RL (An application on medical, etc)
+4. NLP (QA, translation, KG, etc)
+5. CV (An self-defined CV algorithm)
+6. Algorithm (An self-defined optimization algorithm)
+7. Computer Network (mail system, website, etc)
+8. System Architecture (CPU, compiler, etc)
+9. Data Analysis (recommendation system, sentiment analysis system, etc)
+10. Distributed File System (Hadoop, Spark, Scala, etc Structure & Application)
 
 <!-- - I'm currently working. -->
 - 🌱 I'm currently studing for a B.Eng degree in Computer Science
