@@ -77,9 +77,6 @@ Projects Overview:
 <!-- [My Blog](https://ldtenacity.github.io) -->
 
 <p align="center">
-<a href="https://github.com/ldtenacity">
-<img src="https://komarev.com/ghpvc/?username=ldtenacityl&style=flat-square" alt="ldtenacity" />
-</a>
  <a href="mailto:ldtenacity666l@outlook.com">
  <img src="https://img.shields.io/badge/-ldtenacity666@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldtenacity666@outlook.com">
 </a>
