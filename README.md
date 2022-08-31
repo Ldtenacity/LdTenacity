@@ -9,7 +9,7 @@ Note: My github is under maintainaince, there are 30+ projects will be open-sour
 I will take maybe 1-2 months to make the code and documents look fine and then publish them (since final is coming, the schedule is a little tight), if you are interested in some of them, send a message to me(ldtenacity666@outlook.com) and I will give you a copy.
 
 Projects Overview:
-1. GNN (diffusion on heterogeneous graph)
+1. GNN (diffusion on heterogeneous graph, graph structure learning)
 2. Distributed Graph Computing System
 3. RL (An application on medical, etc)
 4. NLP (QA, translation, KG, etc)
